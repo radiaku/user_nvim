@@ -36,4 +36,24 @@ nvim
 ```
 
 
+
+```
+git clone https://github.com/radiaku/user_nvim C:\Users\<user>\AppData\Local\nvim\lua\user
+```
+after edit commit
+
+```
+git commit -m "pesan"
+git commit -a
+```
+
+after that push to origin
+
+```
+git push origin main
+```
+
+
+
+
 edited
