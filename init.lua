@@ -82,4 +82,7 @@ return {
     --   },
     -- }
   end,
+
+  -- set laststatus=2,
+  -- set statusline=helloworld,
 }
